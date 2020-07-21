@@ -1,0 +1,17 @@
+{
+  "name": "lighthouse-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "lighthouse": "^6.1.1",
+    "taiko": "^1.0.9"
+  }
+}
